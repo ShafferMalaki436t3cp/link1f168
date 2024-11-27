@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+F168 - Nền Tảng Cá Cược Trực Tuyến Đẳng Cấp Quốc Tế
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`F168 <https://f168.vin/>`_ là nhà cái cá cược trực tuyến hàng đầu, nổi bật với sự kết hợp giữa cá cược thể thao, casino trực tuyến, bắn cá và slot game. Được cấp phép bởi PAGCOR và Isle of Man, F168 cam kết dịch vụ minh bạch, bảo mật và công bằng. F168 cung cấp đa dạng sản phẩm như kèo thể thao phong phú, sòng bài trực tuyến chân thực, cùng các trò chơi hấp dẫn với tỷ lệ trả thưởng cao. Với giao diện thân thiện, thanh toán nhanh chóng và hỗ trợ 24/7, F168 mang đến trải nghiệm giải trí đỉnh cao, đáp ứng mọi nhu cầu của người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 4329c Nguyễn Cửu Phú, Tân Tạo A, Bình Tân, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0781640144. 
 
-Contents
---------
+Email: info@f168.vin. 
 
-.. toctree::
+Website: https://f168.vin/ 
 
-   usage
-   api
+#f168 #trangchuf168 #dangkyf168 #dangnhapf168 #linkf168
